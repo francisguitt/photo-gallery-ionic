@@ -1,6 +1,6 @@
 # Aplicativo de Galeria de Fotos
 
-Este é um aplicativo de galeria de fotos que desenvolvi utilizando **Ionic React** e **Capacitor**, capaz de rodar em **iOS**, **Android** e na **web**, tudo com apenas uma base de código. Este projeto é uma implementação completa de uma experiência **CRUD** (criar-ler-atualizar-excluir) referenciada no guia "Seu Primeiro Aplicativo: React".
+Este é um aplicativo de galeria de fotos que desenvolvi utilizando **Ionic React** e **Capacitor**, capaz de rodar em **iOS**, **Android** e na **web**, tudo com apenas uma base de código. Este projeto é uma implementação completa de uma experiência **CRUD** (criar-ler-atualizar-excluir).
 
 ## Como funciona
 
